@@ -1,5 +1,4 @@
 # Advanced Data Science Capstone Project
-----
 This is the repository for the IBMs capstone project, a requirement for the _Advanced Data Science with IBM Specialization_.
 
 As a capstone project I have built a system of sentiment classification trained on Twitter data. The main goal of this project is to computationally identify and categorize (`positive` or `negative`) the opinions expressed in a piece of text (tweet).
