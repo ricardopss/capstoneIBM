@@ -23,4 +23,3 @@ The project was divided into 7 parts:
 - **mood_classifier.models.v2.ipynb:** contains the results for the final model considering the full dataset.
 - **mood_classifier.models.weigths.v1.hdf5:** contains the final CNN model's weights
 - **pptx:** presentation made for stakeholders
-- **youtube video:** link
