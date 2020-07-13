@@ -3,7 +3,7 @@ This is the repository for the IBMs capstone project, a requirement for the _Adv
 
 As a capstone project I have built a system of sentiment classification trained on Twitter data. The main goal of this project is to computationally identify and categorize (`positive` or `negative`) the opinions expressed in a piece of text (tweet).
 
-## Project structure:
+## project structure:
 The project was divided into 7 parts:
 
 1. Use case
