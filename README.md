@@ -14,7 +14,7 @@ The project was divided into 7 parts:
 6. Deployment and benchmarking
 7. Final Comments and Future Developments
 
-## repositories files:
+## repository files:
 - **trainingdata.zip:** dataset used to train the model
 - **mood_classifier.add.pdf:** documentation of the technology used in each stage of the project
 - **mood_classifier.data_exp.ipynb:** contains the documentation of the exploratory data analysis (EDA)
